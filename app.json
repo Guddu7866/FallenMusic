@@ -21,7 +21,7 @@
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": "fallen_music_bot"
+      "value": "Broken_mr_z_bot"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
@@ -34,17 +34,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "iam_your_heart4"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": ""
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "2082934030"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
