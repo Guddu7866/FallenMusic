@@ -2,7 +2,7 @@
   "name": "Fallen Music",
   "description": "A SuperFast VC Player bot to play songs in Telegram Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/AnonymousBoy1025/FallenMusic",
+  "repository": "",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
